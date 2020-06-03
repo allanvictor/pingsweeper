@@ -1,4 +1,4 @@
-# PING SWEEPPER
+# PING SWEEPER
 Scan ips and show lives and deads in Network
 ## Dependencies:
 - python 3.x.x
